@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.39.0"
   latestRelease: "v1.39.0"
   latestPrerelease: "v1.22.0-beta-1"
-  collectedAt: 2026-09-09T05:51:55Z
+  collectedAt: 2026-09-09T19:57:16Z
 timeline:
   created: 2019-01-16
   lastCommit: 2026-07-24
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-03-06
   lastPrerelease: 2020-10-07
 popularity:
-  star: 26812
+  star: 26815
   watcher: 68
   fork: 641
   release: 70
@@ -87,7 +87,7 @@ total:
   commit: 738
 ---
 path: /home/runner/.x-repo/github.com/Schniz/fnm
-collectedAt: 2026-09-09T05:51:56Z
+collectedAt: 2026-09-09T19:57:20Z
 loc:
   Yaml:
     code: 4588
