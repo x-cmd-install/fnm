@@ -1,24 +1,75 @@
 # fnm
 
+[中文版本](./README.cn.md)
+
 🚀 Fast and simple Node.js version manager, built in Rust
 
-- **Upstream**: <https://github.com/Schniz/fnm>
-- **Homepage**: <https://fnm.vercel.app>
-- **Latest release**: `v1.39.0` (2026-03-06)
-- **Last commit**: 2026-07-24
-- **License**: GPL-3.0
-- **Stars**: 26815 · **Forks**: 641 · **Open issues**: 711 · **Contributors**: 104
+![fnm](https://repo.x-cmd.io/fnm.svg)
 
-## Installation
+## Install
 
 ```sh
 x install fnm
 ```
 
-See <https://x-cmd.com/install/fnm> for details.
+## Source
 
-## Data
+- **Upstream**: <https://github.com/Schniz/fnm>
+- **Homepage**: <https://fnm.vercel.app>
+- **License**: GPL-3.0
 
-This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
+## Release
 
-_Last regenerated: 2026-09-09T19:57:30Z._
+- **Latest**: `v1.39.0` (2026-03-06)
+- **Last commit**: 2026-07-24
+- **Assets in release**: 5
+- **Published**: 2026-03-06T15:23:47Z
+
+## Popularity
+
+- **Stars**: 26,817 · **Forks**: 641 · **Open issues**: 711 · **Contributors**: 104
+
+## Totals (cumulative)
+
+- **Releases**: 70 · **Merged PRs**: 637 · **Open PRs**: 73 · **Closed issues**: 541 · **Open issues**: 170 · **Commits**: 738
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 0 | 0 | 2 | 0 | 4 | 0 |
+| 90d | 2026-06-12 | 0 | 1 | 6 | 0 | 15 | 1 |
+| 360d | 2025-09-15 | 1 | 9 | 27 | 20 | 42 | 11 |
+
+## Code size
+
+Total: **10,243** lines of code across **101** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Yaml | 4,588 | 0 | 1,376 | 1 |
+| Rust | 3,825 | 14 | 560 | 58 |
+| TypeScript | 1,260 | 6 | 106 | 32 |
+| JavaScript | 341 | 25 | 33 | 5 |
+| Json | 132 | 0 | 0 | 5 |
+
+## OpenSSF Scorecard
+
+Overall score: **3.6 / 10**
+
+Lowest-scoring checks:
+
+- **Code-Review** (4/10) — Found 11/25 approved changesets -- score normalized to 4
+- **Maintained** (0/10) — 1 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+
+## Improve this data
+
+Install metadata for fnm lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `fnm` is missing, out of date, or installs incorrectly, please open an issue or PR there:
+
+- **Open an issue**: <https://github.com/x-cmd/install/issues/new>
+- **Edit the package entry**: <https://github.com/x-cmd/edit/main/fnm.yml> (or whichever path the index uses)
+
+The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
+
+_Snapshot: `data/card/260910.yml` · 2026-09-10T05:50:27Z._
