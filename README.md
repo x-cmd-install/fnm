@@ -30,9 +30,9 @@ Overall score: **3.6 / 10**
 
 Lowest-scoring checks:
 
-- **Maintained** (0/10) — 1 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
 - **Code-Review** (4/10) — Found 11/25 approved changesets -- score normalized to 4
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **Maintained** (0/10) — 1 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
+- **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
 
 ## Source
 
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 26,905 · **Forks**: 648 · **Open issues**: 712 · **Contributors**: 104
+- **Stars**: 26,918 · **Forks**: 648 · **Open issues**: 712 · **Contributors**: 104
 
 ## Totals (cumulative)
 
-- **Releases**: 70 · **Merged PRs**: 637 · **Open PRs**: 78 · **Closed issues**: 541 · **Open issues**: 171 · **Commits**: 738
+- **Releases**: 70 · **Merged PRs**: 637 · **Open PRs**: 78 · **Closed issues**: 542 · **Open issues**: 170 · **Commits**: 738
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-22 | 0 | 0 | 6 | 0 | 5 | 0 |
-| last60d | 2026-07-23 | 0 | 0 | 8 | 0 | 9 | 0 |
-| 90d | 2026-06-23 | 0 | 1 | 10 | 0 | 13 | 1 |
-| last180d | 2026-03-25 | 0 | 1 | 18 | 3 | 29 | 5 |
-| 360d | 2025-09-26 | 1 | 9 | 32 | 20 | 41 | 11 |
-| last720d | 2024-10-01 | 4 | 43 | 64 | 87 | 82 | 54 |
+| 30d | 2026-08-23 | 0 | 0 | 6 | 0 | 5 | 0 |
+| last60d | 2026-07-24 | 0 | 0 | 8 | 1 | 8 | 0 |
+| 90d | 2026-06-24 | 0 | 1 | 10 | 1 | 12 | 1 |
+| last180d | 2026-03-26 | 0 | 1 | 18 | 4 | 28 | 5 |
+| 360d | 2025-09-27 | 1 | 9 | 32 | 21 | 40 | 11 |
+| last720d | 2024-10-02 | 4 | 43 | 64 | 88 | 80 | 54 |
 
 ## Release assets
 
@@ -84,4 +84,4 @@ Install metadata for fnm lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260921.yml` · 2026-09-21T05:59:41Z._
+_Snapshot: `data/card/260922.yml` · 2026-09-22T05:59:16Z._
