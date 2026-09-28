@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 26,969 · **Forks**: 648 · **Open issues**: 714 · **Contributors**: 104
+- **Stars**: 26,975 · **Forks**: 649 · **Open issues**: 714 · **Contributors**: 104
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-28 | 0 | 0 | 6 | 0 | 2 | 0 |
-| last60d | 2026-07-29 | 0 | 0 | 8 | 0 | 7 | 0 |
-| 90d | 2026-06-29 | 0 | 1 | 9 | 1 | 12 | 1 |
-| last180d | 2026-03-31 | 0 | 1 | 17 | 4 | 28 | 5 |
-| 360d | 2025-10-02 | 1 | 9 | 32 | 20 | 40 | 11 |
-| last720d | 2024-10-07 | 3 | 38 | 62 | 89 | 80 | 42 |
+| 30d | 2026-08-29 | 0 | 0 | 6 | 0 | 2 | 0 |
+| last60d | 2026-07-30 | 0 | 0 | 8 | 0 | 7 | 0 |
+| 90d | 2026-06-30 | 0 | 1 | 9 | 1 | 12 | 1 |
+| last180d | 2026-04-01 | 0 | 1 | 17 | 3 | 28 | 5 |
+| 360d | 2025-10-03 | 1 | 9 | 32 | 20 | 40 | 11 |
+| last720d | 2024-10-08 | 3 | 36 | 61 | 89 | 79 | 42 |
 
 ## Release assets
 
@@ -84,4 +84,4 @@ Install metadata for fnm lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260927.yml` · 2026-09-27T06:14:47Z._
+_Snapshot: `data/card/260928.yml` · 2026-09-28T06:18:35Z._
