@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 27,092 · **Forks**: 651 · **Open issues**: 717 · **Contributors**: 104
+- **Stars**: 27,096 · **Forks**: 651 · **Open issues**: 718 · **Contributors**: 104
 
 ## Totals (cumulative)
 
-- **Releases**: 70 · **Merged PRs**: 637 · **Open PRs**: 76 · **Closed issues**: 545 · **Open issues**: 172 · **Commits**: 738
+- **Releases**: 70 · **Merged PRs**: 637 · **Open PRs**: 76 · **Closed issues**: 545 · **Open issues**: 173 · **Commits**: 738
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-13 | 0 | 0 | 3 | 1 | 3 | 0 |
-| last60d | 2026-08-14 | 0 | 0 | 7 | 1 | 7 | 0 |
-| 90d | 2026-07-15 | 0 | 1 | 9 | 2 | 10 | 1 |
-| last180d | 2026-04-16 | 0 | 1 | 17 | 4 | 30 | 1 |
-| 360d | 2025-10-18 | 1 | 9 | 30 | 20 | 42 | 11 |
-| last720d | 2024-10-23 | 3 | 29 | 55 | 86 | 79 | 34 |
+| 30d | 2026-09-14 | 0 | 0 | 3 | 1 | 4 | 0 |
+| last60d | 2026-08-15 | 0 | 0 | 7 | 1 | 8 | 0 |
+| 90d | 2026-07-16 | 0 | 1 | 9 | 2 | 11 | 1 |
+| last180d | 2026-04-17 | 0 | 1 | 17 | 4 | 31 | 1 |
+| 360d | 2025-10-19 | 1 | 9 | 30 | 20 | 43 | 11 |
+| last720d | 2024-10-24 | 3 | 29 | 54 | 85 | 80 | 33 |
 
 ## Release assets
 
@@ -84,4 +84,4 @@ Install metadata for fnm lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261013.yml` · 2026-10-13T07:44:44Z._
+_Snapshot: `data/card/261014.yml` · 2026-10-14T05:43:50Z._
