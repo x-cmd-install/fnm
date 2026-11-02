@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 27,257 · **Forks**: 661 · **Open issues**: 722 · **Contributors**: 104
+- **Stars**: 27,268 · **Forks**: 661 · **Open issues**: 722 · **Contributors**: 104
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-02 | 0 | 1 | 4 | 1 | 6 | 1 |
-| last60d | 2026-09-02 | 0 | 1 | 10 | 1 | 9 | 1 |
-| 90d | 2026-08-03 | 0 | 1 | 12 | 1 | 14 | 1 |
-| last180d | 2026-05-05 | 0 | 2 | 19 | 3 | 30 | 2 |
-| 360d | 2025-11-06 | 1 | 10 | 33 | 19 | 45 | 12 |
-| last720d | 2024-11-11 | 3 | 25 | 55 | 78 | 81 | 30 |
+| 30d | 2026-10-03 | 0 | 1 | 4 | 1 | 6 | 1 |
+| last60d | 2026-09-03 | 0 | 1 | 10 | 1 | 9 | 1 |
+| 90d | 2026-08-04 | 0 | 1 | 12 | 1 | 14 | 1 |
+| last180d | 2026-05-06 | 0 | 2 | 19 | 3 | 30 | 2 |
+| 360d | 2025-11-07 | 1 | 10 | 33 | 19 | 45 | 12 |
+| last720d | 2024-11-12 | 3 | 24 | 55 | 76 | 80 | 30 |
 
 ## Release assets
 
@@ -75,6 +75,18 @@ Lowest-scoring checks:
 | [fnm-macos.zip](https://github.com/Schniz/fnm/releases/download/v1.39.0/fnm-macos.zip) | 6.0 MiB | `native/darwin/x64` |
 | [fnm-windows.zip](https://github.com/Schniz/fnm/releases/download/v1.39.0/fnm-windows.zip) | 3.3 MiB | `native/win/x64` |
 
+## Distribution status
+
+Reported by **24** distros on [repology.org](https://repology.org/project/fnm). **16** are ✅ on the latest upstream release, **7** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Arch | `1.39.0` | ✅ latest |
+| Homebrew | `1.39.0` | ✅ latest |
+| Nix unstable | `1.39.0` | ✅ latest |
+| Alpine edge | `1.39.0` | ✅ latest |
+| openSUSE Tumbleweed | `1.38.1` | ⚠️ outdated |
+
 ## Improve this data
 
 Install metadata for fnm lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `fnm` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -84,4 +96,4 @@ Install metadata for fnm lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261101.yml` · 2026-11-01T06:55:58Z._
+_Snapshot: `data/card/261102.yml` · 2026-11-02T07:00:56Z._
