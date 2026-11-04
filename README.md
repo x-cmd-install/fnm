@@ -30,8 +30,8 @@ Overall score: **3.6 / 10**
 
 Lowest-scoring checks:
 
-- **Maintained** (0/10) — 1 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
 - **Code-Review** (4/10) — Found 11/25 approved changesets -- score normalized to 4
+- **Maintained** (0/10) — 1 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## Source
@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 27,278 · **Forks**: 662 · **Open issues**: 722 · **Contributors**: 104
+- **Stars**: 27,290 · **Forks**: 662 · **Open issues**: 722 · **Contributors**: 104
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-04 | 0 | 1 | 4 | 1 | 6 | 1 |
-| last60d | 2026-09-04 | 0 | 1 | 10 | 1 | 8 | 1 |
-| 90d | 2026-08-05 | 0 | 1 | 12 | 1 | 13 | 1 |
-| last180d | 2026-05-07 | 0 | 2 | 19 | 3 | 30 | 2 |
-| 360d | 2025-11-08 | 1 | 10 | 33 | 19 | 45 | 12 |
-| last720d | 2024-11-13 | 3 | 23 | 55 | 76 | 78 | 29 |
+| 30d | 2026-10-05 | 0 | 1 | 4 | 1 | 6 | 1 |
+| last60d | 2026-09-05 | 0 | 1 | 10 | 1 | 8 | 1 |
+| 90d | 2026-08-06 | 0 | 1 | 12 | 1 | 13 | 1 |
+| last180d | 2026-05-08 | 0 | 2 | 19 | 3 | 29 | 2 |
+| 360d | 2025-11-09 | 1 | 10 | 33 | 19 | 45 | 12 |
+| last720d | 2024-11-14 | 3 | 23 | 55 | 75 | 77 | 27 |
 
 ## Release assets
 
@@ -96,4 +96,4 @@ Install metadata for fnm lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261103.yml` · 2026-11-03T07:56:09Z._
+_Snapshot: `data/card/261104.yml` · 2026-11-04T07:16:17Z._
