@@ -30,8 +30,8 @@ Overall score: **3.6 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (4/10) — Found 11/25 approved changesets -- score normalized to 4
 - **Maintained** (0/10) — 1 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
+- **Code-Review** (4/10) — Found 11/25 approved changesets -- score normalized to 4
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## Source
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 27,332 · **Forks**: 661 · **Open issues**: 722 · **Contributors**: 104
+- **Stars**: 27,358 · **Forks**: 662 · **Open issues**: 722 · **Contributors**: 104
 
 ## Totals (cumulative)
 
-- **Releases**: 70 · **Merged PRs**: 638 · **Open PRs**: 80 · **Closed issues**: 545 · **Open issues**: 177 · **Commits**: 739
+- **Releases**: 70 · **Merged PRs**: 638 · **Open PRs**: 81 · **Closed issues**: 545 · **Open issues**: 177 · **Commits**: 739
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-09 | 0 | 1 | 5 | 1 | 6 | 1 |
-| last60d | 2026-09-09 | 0 | 1 | 10 | 1 | 8 | 1 |
-| 90d | 2026-08-10 | 0 | 1 | 12 | 1 | 12 | 1 |
-| last180d | 2026-05-12 | 0 | 2 | 19 | 2 | 27 | 2 |
-| 360d | 2025-11-13 | 1 | 10 | 34 | 19 | 45 | 12 |
-| last720d | 2024-11-18 | 1 | 21 | 56 | 73 | 77 | 24 |
+| 30d | 2026-10-11 | 0 | 1 | 6 | 0 | 6 | 1 |
+| last60d | 2026-09-11 | 0 | 1 | 10 | 1 | 8 | 1 |
+| 90d | 2026-08-12 | 0 | 1 | 13 | 1 | 12 | 1 |
+| last180d | 2026-05-14 | 0 | 2 | 20 | 2 | 26 | 2 |
+| 360d | 2025-11-15 | 1 | 10 | 35 | 18 | 45 | 12 |
+| last720d | 2024-11-20 | 1 | 21 | 57 | 72 | 77 | 24 |
 
 ## Release assets
 
@@ -96,4 +96,4 @@ Install metadata for fnm lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261108.yml` · 2026-11-08T06:50:32Z._
+_Snapshot: `data/card/261110.yml` · 2026-11-10T08:24:49Z._
