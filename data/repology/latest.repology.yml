@@ -1,25 +1,38 @@
-- repo: nix_stable_24_11
+- repo: homebrew
   srcname: fnm
   visiblename: fnm
-  version: 1.37.2
+  version: HEAD
   origversion: null
-  status: outdated
+  status: rolling
   summary: Fast and simple Node.js version manager
-  maintainers:
-    - hi@xuann.wang
-  licenses:
-    - GPL-3.0-only
-- repo: nix_stable_25_05
-  srcname: fnm
-  visiblename: fnm
+- repo: liguros_stable
+  srcname: dev-util/fnm
+  visiblename: dev-util/fnm
   version: 1.38.1
   origversion: null
   status: outdated
   summary: Fast and simple Node.js version manager
   maintainers:
-    - hi@xuann.wang
+    - alexey@zapparov.com
   licenses:
-    - GPL-3.0-only
+    - GPL-3
+    - Apache-2.0
+    - BSD
+    - Boost-1.0
+    - ISC
+    - MIT
+    - MPL-2.0
+    - Unicode-DFS-2016
+    - openssl
+  categories:
+    - dev-util
+- repo: homebrew
+  srcname: fnm
+  visiblename: fnm
+  version: 1.39.0
+  origversion: null
+  status: newest
+  summary: Fast and simple Node.js version manager
 - repo: alpine_edge
   subrepo: testing
   srcname: fnm
@@ -130,6 +143,13 @@
   origversion: null
   status: newest
   summary: fnm is a cross-platform, single file, instant startup, Node.js version manager built with speed in mind
+- repo: crates_io
+  srcname: fnm
+  visiblename: fnm
+  version: 1.39.0
+  origversion: null
+  status: newest
+  summary: Fast and simple Node.js version manager
 - repo: freebsd
   srcname: devel/fnm
   binname: fnm
@@ -142,41 +162,6 @@
     - yuri@freebsd.org
   categories:
     - devel
-- repo: homebrew
-  srcname: fnm
-  visiblename: fnm
-  version: 1.39.0
-  origversion: null
-  status: newest
-  summary: Fast and simple Node.js version manager
-- repo: homebrew
-  srcname: fnm
-  visiblename: fnm
-  version: HEAD
-  origversion: null
-  status: rolling
-  summary: Fast and simple Node.js version manager
-- repo: liguros_stable
-  srcname: dev-util/fnm
-  visiblename: dev-util/fnm
-  version: 1.38.1
-  origversion: null
-  status: outdated
-  summary: Fast and simple Node.js version manager
-  maintainers:
-    - alexey@zapparov.com
-  licenses:
-    - GPL-3
-    - Apache-2.0
-    - BSD
-    - Boost-1.0
-    - ISC
-    - MIT
-    - MPL-2.0
-    - Unicode-DFS-2016
-    - openssl
-  categories:
-    - dev-util
 - repo: macports
   srcname: devel/fnm
   binname: fnm
@@ -229,6 +214,28 @@
   srcname: fnm
   visiblename: fnm
   version: 1.35.1
+  origversion: null
+  status: outdated
+  summary: Fast and simple Node.js version manager
+  maintainers:
+    - hi@xuann.wang
+  licenses:
+    - GPL-3.0-only
+- repo: nix_stable_24_11
+  srcname: fnm
+  visiblename: fnm
+  version: 1.37.2
+  origversion: null
+  status: outdated
+  summary: Fast and simple Node.js version manager
+  maintainers:
+    - hi@xuann.wang
+  licenses:
+    - GPL-3.0-only
+- repo: nix_stable_25_05
+  srcname: fnm
+  visiblename: fnm
+  version: 1.38.1
   origversion: null
   status: outdated
   summary: Fast and simple Node.js version manager
