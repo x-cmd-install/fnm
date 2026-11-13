@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 27,385 · **Forks**: 665 · **Open issues**: 722 · **Contributors**: 104
+- **Stars**: 27,395 · **Forks**: 665 · **Open issues**: 722 · **Contributors**: 104
 
 ## Totals (cumulative)
 
-- **Releases**: 70 · **Merged PRs**: 638 · **Open PRs**: 81 · **Closed issues**: 545 · **Open issues**: 177 · **Commits**: 739
+- **Releases**: 70 · **Merged PRs**: 638 · **Open PRs**: 82 · **Closed issues**: 545 · **Open issues**: 177 · **Commits**: 739
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-13 | 0 | 1 | 6 | 0 | 5 | 1 |
-| last60d | 2026-09-13 | 0 | 1 | 9 | 1 | 8 | 1 |
-| 90d | 2026-08-14 | 0 | 1 | 13 | 1 | 12 | 1 |
-| last180d | 2026-05-16 | 0 | 2 | 18 | 2 | 25 | 2 |
-| 360d | 2025-11-17 | 1 | 10 | 35 | 17 | 45 | 12 |
-| last720d | 2024-11-22 | 1 | 21 | 57 | 70 | 77 | 24 |
+| 30d | 2026-10-14 | 0 | 1 | 6 | 0 | 4 | 1 |
+| last60d | 2026-09-14 | 0 | 1 | 10 | 1 | 8 | 1 |
+| 90d | 2026-08-15 | 0 | 1 | 14 | 1 | 12 | 1 |
+| last180d | 2026-05-17 | 0 | 2 | 19 | 2 | 25 | 2 |
+| 360d | 2025-11-18 | 1 | 10 | 36 | 17 | 45 | 12 |
+| last720d | 2024-11-23 | 1 | 21 | 58 | 70 | 77 | 24 |
 
 ## Release assets
 
@@ -77,12 +77,12 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **26** distros on [repology.org](https://repology.org/project/fnm). **18** are ✅ on the latest upstream release, **7** are ⚠️ on an older version.
+Reported by **27** distros on [repology.org](https://repology.org/project/fnm). **19** are ✅ on the latest upstream release, **7** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
 | Arch | `1.39.0` | ✅ latest |
-| Homebrew | `1.39.0` | ✅ latest |
+| Homebrew | `HEAD` | 🔄 rolling |
 | Nix unstable | `1.39.0` | ✅ latest |
 | Alpine edge | `1.39.0` | ✅ latest |
 | openSUSE Tumbleweed | `1.38.1` | ⚠️ outdated |
@@ -96,4 +96,4 @@ Install metadata for fnm lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261112.yml` · 2026-11-12T08:33:04Z._
+_Snapshot: `data/card/261113.yml` · 2026-11-13T07:49:51Z._
