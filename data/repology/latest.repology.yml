@@ -1,38 +1,47 @@
-- repo: homebrew
+- repo: nix_stable_24_05
   srcname: fnm
   visiblename: fnm
-  version: HEAD
+  version: 1.35.1
   origversion: null
-  status: rolling
+  status: outdated
   summary: Fast and simple Node.js version manager
-- repo: liguros_stable
-  srcname: dev-util/fnm
-  visiblename: dev-util/fnm
+  maintainers:
+    - hi@xuann.wang
+  licenses:
+    - GPL-3.0-only
+- repo: nix_stable_24_11
+  srcname: fnm
+  visiblename: fnm
+  version: 1.37.2
+  origversion: null
+  status: outdated
+  summary: Fast and simple Node.js version manager
+  maintainers:
+    - hi@xuann.wang
+  licenses:
+    - GPL-3.0-only
+- repo: nix_stable_25_05
+  srcname: fnm
+  visiblename: fnm
   version: 1.38.1
   origversion: null
   status: outdated
   summary: Fast and simple Node.js version manager
   maintainers:
-    - alexey@zapparov.com
+    - hi@xuann.wang
   licenses:
-    - GPL-3
-    - Apache-2.0
-    - BSD
-    - Boost-1.0
-    - ISC
-    - MIT
-    - MPL-2.0
-    - Unicode-DFS-2016
-    - openssl
-  categories:
-    - dev-util
-- repo: homebrew
+    - GPL-3.0-only
+- repo: nix_stable_25_11
   srcname: fnm
   visiblename: fnm
-  version: 1.39.0
+  version: 1.38.1
   origversion: null
-  status: newest
+  status: outdated
   summary: Fast and simple Node.js version manager
+  maintainers:
+    - hi@xuann.wang
+  licenses:
+    - GPL-3.0-only
 - repo: alpine_edge
   subrepo: testing
   srcname: fnm
@@ -92,7 +101,7 @@
     - fnm-debuginfo
   visiblename: fnm
   version: 1.39.0
-  origversion: 1.39.0-alt1
+  origversion: 1.39.0-alt2
   status: newest
   summary: Fast and simple Node.js version manager, built in Rust
   maintainers:
@@ -162,6 +171,41 @@
     - yuri@freebsd.org
   categories:
     - devel
+- repo: homebrew
+  srcname: fnm
+  visiblename: fnm
+  version: 1.39.0
+  origversion: null
+  status: newest
+  summary: Fast and simple Node.js version manager
+- repo: homebrew
+  srcname: fnm
+  visiblename: fnm
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Fast and simple Node.js version manager
+- repo: liguros_stable
+  srcname: dev-util/fnm
+  visiblename: dev-util/fnm
+  version: 1.38.1
+  origversion: null
+  status: outdated
+  summary: Fast and simple Node.js version manager
+  maintainers:
+    - alexey@zapparov.com
+  licenses:
+    - GPL-3
+    - Apache-2.0
+    - BSD
+    - Boost-1.0
+    - ISC
+    - MIT
+    - MPL-2.0
+    - Unicode-DFS-2016
+    - openssl
+  categories:
+    - dev-util
 - repo: macports
   srcname: devel/fnm
   binname: fnm
@@ -210,50 +254,6 @@
   summary: Fast and simple Node.js version manager, built with Rust
   licenses:
     - GPL-3.0-or-later
-- repo: nix_stable_24_05
-  srcname: fnm
-  visiblename: fnm
-  version: 1.35.1
-  origversion: null
-  status: outdated
-  summary: Fast and simple Node.js version manager
-  maintainers:
-    - hi@xuann.wang
-  licenses:
-    - GPL-3.0-only
-- repo: nix_stable_24_11
-  srcname: fnm
-  visiblename: fnm
-  version: 1.37.2
-  origversion: null
-  status: outdated
-  summary: Fast and simple Node.js version manager
-  maintainers:
-    - hi@xuann.wang
-  licenses:
-    - GPL-3.0-only
-- repo: nix_stable_25_05
-  srcname: fnm
-  visiblename: fnm
-  version: 1.38.1
-  origversion: null
-  status: outdated
-  summary: Fast and simple Node.js version manager
-  maintainers:
-    - hi@xuann.wang
-  licenses:
-    - GPL-3.0-only
-- repo: nix_stable_25_11
-  srcname: fnm
-  visiblename: fnm
-  version: 1.38.1
-  origversion: null
-  status: outdated
-  summary: Fast and simple Node.js version manager
-  maintainers:
-    - hi@xuann.wang
-  licenses:
-    - GPL-3.0-only
 - repo: nix_stable_26_05
   srcname: fnm
   visiblename: fnm
