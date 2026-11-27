@@ -48,22 +48,22 @@ x install fnm
 
 ## 流行度
 
-- **Star**: 27,517 · **Fork**: 672 · **开放 issue**: 722 · **贡献者**: 104
+- **Star**: 27,527 · **Fork**: 672 · **开放 issue**: 724 · **贡献者**: 104
 
 ## 累计统计
 
-- **发布数**: 70 · **已合并 PR**: 638 · **开放 PR**: 83 · **已关闭 issue**: 545 · **开放 issue**: 177 · **提交数**: 739
+- **发布数**: 70 · **已合并 PR**: 638 · **开放 PR**: 84 · **已关闭 issue**: 545 · **开放 issue**: 179 · **提交数**: 739
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-27 | 0 | 0 | 5 | 0 | 2 | 0 |
-| last60d | 2026-09-27 | 0 | 1 | 8 | 1 | 7 | 1 |
-| 90d | 2026-08-28 | 0 | 1 | 14 | 1 | 9 | 1 |
-| last180d | 2026-05-30 | 0 | 2 | 19 | 2 | 25 | 2 |
-| 360d | 2025-12-01 | 1 | 10 | 36 | 14 | 45 | 12 |
-| last720d | 2024-12-06 | 1 | 20 | 59 | 64 | 76 | 24 |
+| 30d | 2026-10-28 | 0 | 0 | 6 | 0 | 4 | 0 |
+| last60d | 2026-09-28 | 0 | 1 | 9 | 1 | 8 | 1 |
+| 90d | 2026-08-29 | 0 | 1 | 15 | 1 | 11 | 1 |
+| last180d | 2026-05-31 | 0 | 2 | 20 | 2 | 27 | 2 |
+| 360d | 2025-12-02 | 1 | 10 | 36 | 14 | 47 | 12 |
+| last720d | 2024-12-07 | 1 | 20 | 60 | 64 | 78 | 24 |
 
 ## Release 资产
 
@@ -75,6 +75,18 @@ x install fnm
 | [fnm-macos.zip](https://github.com/Schniz/fnm/releases/download/v1.39.0/fnm-macos.zip) | 6.0 MiB | `native/darwin/x64` |
 | [fnm-windows.zip](https://github.com/Schniz/fnm/releases/download/v1.39.0/fnm-windows.zip) | 3.3 MiB | `native/win/x64` |
 
+## 发行版状态
+
+在 [repology.org](https://repology.org/project/fnm) 上共有 **27** 个发行版报告此项目。**19** 个 ✅ 已是最新上游版本，**7** 个 ⚠️ 使用旧版本。
+
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Arch | `1.39.0` | ✅ latest |
+| Homebrew | `1.39.0` | ✅ latest |
+| Nix unstable | `1.39.0` | ✅ latest |
+| Alpine edge | `1.39.0` | ✅ latest |
+| openSUSE Tumbleweed | `1.38.1` | ⚠️ outdated |
+
 ## 改进这些数据
 
 fnm 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `fnm` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -84,4 +96,4 @@ fnm 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261126.yml` · 2026-11-26T10:05:30Z._
+_数据快照: `data/card/261127.yml` · 2026-11-27T09:32:40Z._
